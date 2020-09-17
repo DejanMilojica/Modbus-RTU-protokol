@@ -1,0 +1,3 @@
+INFORMACIJE:
+
+*	Provjera argumenata serijskog prenosa(BAUD RATE, PARITU, STOP_BIT...), obavlja se uspjesno unutar f-je "modbus_new_rtu", koja je definisana unutar fajla "modbus-rtu.c"

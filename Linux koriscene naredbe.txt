@@ -1,0 +1,7 @@
+- sudo insmod ./*.ko			= insertovanje kernel modula!
+- rmmod *				= uklanjanje modula!
+- modinfo *.ko				= informacije o modulu!
+- sudo stty -F /dev/ttyAMA0 -a   	= provjera parametara serijskog prenosa!
+- sudo strace ./program			= asembliranje programa!
+- uname -a 				= provjera verzije linux kernela!
+- lsmod					= pregled insertovanih modula!
